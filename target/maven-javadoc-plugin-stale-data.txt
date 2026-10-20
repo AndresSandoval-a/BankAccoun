@@ -1,0 +1,48 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+--no-fonts
+-encoding
+'UTF-8'
+-protected
+--release
+26
+-sourcepath
+'C:/Users/capit/OneDrive/Documentos/NetBeansProjects/cajeroAutomatico/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2026. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/capit/OneDrive/Documentos/NetBeansProjects/cajeroAutomatico/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'cajeroAutomatico 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'cajeroAutomatico 1.0-SNAPSHOT API'
+com.Uptc.cajeroAutomatico.exeptions
+com.Uptc.cajeroAutomatico.logic
+com.Uptc.cajeroAutomatico.main
+com.Uptc.cajeroAutomatico.models
+com.Uptc.cajeroAutomatico.presenter
+C:\Users\capit\OneDrive\Documentos\NetBeansProjects\cajeroAutomatico\src\main\java = 1792185491125
+C:\Users\capit\OneDrive\Documentos\NetBeansProjects\cajeroAutomatico\target\reports\apidocs\allclasses-index.html = 1792523716567
+C:\Users\capit\OneDrive\Documentos\NetBeansProjects\cajeroAutomatico\target\reports\apidocs\allpackages-index.html = 1792523716569
+C:\Users\capit\OneDrive\Documentos\NetBeansProjects\cajeroAutomatico\target\reports\apidocs\element-list = 1792523716461
+C:\Users\capit\OneDrive\Documentos\NetBeansProjects\cajeroAutomatico\target\reports\apidocs\help-doc.html = 1792523716591
+C:\Users\capit\OneDrive\Documentos\NetBeansProjects\cajeroAutomatico\target\reports\apidocs\index-all.html = 1792523716583
+C:\Users\capit\OneDrive\Documentos\NetBeansProjects\cajeroAutomatico\target\reports\apidocs\index.html = 1792523716554
+C:\Users\capit\OneDrive\Documentos\NetBeansProjects\cajeroAutomatico\target\reports\apidocs\member-search-index.js = 1792523716574
+C:\Users\capit\OneDrive\Documentos\NetBeansProjects\cajeroAutomatico\target\reports\apidocs\module-search-index.js = 1792523716570
+C:\Users\capit\OneDrive\Documentos\NetBeansProjects\cajeroAutomatico\target\reports\apidocs\overview-summary.html = 1792523716587
+C:\Users\capit\OneDrive\Documentos\NetBeansProjects\cajeroAutomatico\target\reports\apidocs\overview-tree.html = 1792523716550
+C:\Users\capit\OneDrive\Documentos\NetBeansProjects\cajeroAutomatico\target\reports\apidocs\package-search-index.js = 1792523716572
+C:\Users\capit\OneDrive\Documentos\NetBeansProjects\cajeroAutomatico\target\reports\apidocs\search.html = 1792523716585
+C:\Users\capit\OneDrive\Documentos\NetBeansProjects\cajeroAutomatico\target\reports\apidocs\serialized-form.html = 1792523716504
+C:\Users\capit\OneDrive\Documentos\NetBeansProjects\cajeroAutomatico\target\reports\apidocs\tag-search-index.js = 1792523716575
+C:\Users\capit\OneDrive\Documentos\NetBeansProjects\cajeroAutomatico\target\reports\apidocs\type-search-index.js = 1792523716573
